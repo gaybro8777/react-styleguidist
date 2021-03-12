@@ -70,7 +70,7 @@
     "prop-types": "^15.6.2",
     "q-i": "^2.0.1",
     "querystringify": "^2.1.0",
-    "react-dev-utils": "^6.1.1",
+    "react-dev-utils": "^11.0.4",
     "react-docgen": "3.0.0-rc.2",
     "react-docgen-annotation-resolver": "^1.0.0",
     "react-docgen-displayname-handler": "^2.1.1",
