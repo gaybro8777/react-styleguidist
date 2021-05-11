@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "dog-names": "^1.0.2",
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.21",
     "prop-types": "^15.6.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
